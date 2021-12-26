@@ -147,6 +147,6 @@
 
    ],
 "message":"update: 23/11/2021\n \nConfig version: 12\n Update by: sansoe\n \n",
-   "title":"New config update available" ,
+   "title":"Do you want to update ?" ,
    "version": 12
 }
