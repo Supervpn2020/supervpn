@@ -73,7 +73,7 @@
       
 
    ],
-"message":"update: 30/12/2021 \nConfig version: 1\nUpdate by: sansoe \nWhat's new \nAdded free (3)server",
-   "title":"New config update available" ,
+"message":"What's new \nAdded 3-free server",
+   "title":"Do you want to update ?" ,
    "version": 1
 }
