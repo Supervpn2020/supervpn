@@ -1,5 +1,33 @@
 {
-   "files": [   
+   "files": [ 
+
+{
+         "name": "DtacNoPro_FREE",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE3.ovpn"
+      },
+
+{
+         "name": "DtacNoPro_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP1.ovpn"
+      },
+
+{
+         "name": "DtacNoPro_VIP2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP2.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP3",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP3.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP4",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP4.ovpn"
+      },
+  
 {
          "name": "Dtac90days_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
@@ -169,7 +197,7 @@
       }
 
    ],
-"message":"update: 30/12/2021 \nConfig version: 18\nUpdate by: sansoe \nWhat's new \nAdded free (3)server",
-   "title":"New config update available" ,
-   "version": 18
+"message":"update: 11/01/2021 \nConfig version: 19\nUpdate by: sansoe \nWhat's new \nAdded free (3)server",
+   "title":"New update available now" ,
+   "version": 19
 }
