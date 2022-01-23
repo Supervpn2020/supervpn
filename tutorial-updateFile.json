@@ -2,19 +2,34 @@
    "files": [   
 {
          "name": "01.SG-Dtac90days",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacLINE_VIP3.ovpn"
       },
 
 {
-         "name": "02.SG-Dtac90days",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE2.ovpn"
+         "name": "02.TH-Dtac90days",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacLINE_VIP3.ovpn"
       },
+
+{
+         "name": "02.KR-Dtac90days",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacLINE_VIP3.ovpn"
+      },
+
+{
+         "name": "02.IN-Dtac90days",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacLINE_VIP3.ovpn"
+      },
+
+{
+         "name": "02.US-Dtac90days",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/DtacLINE_VIP3.ovpn"
+      }
 
 
       
 
    ],
-"message":"What's new \nAdded 3-free server",
+"message":"What's new \nThis is tutorial update",
    "title":"Do you want to update ?" ,
-   "version": 2
+   "version": 1
 }
