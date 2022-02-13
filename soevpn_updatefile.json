@@ -1,85 +1,72 @@
 {
    "files": [   
 {
-         "name": "01.SG-Dtac90days",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
+         "name": "01.TH-DtacNoPro",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/1.TH_DtacNoPro.ovpn"
       },
 
 {
-         "name": "02.SG-Dtac90days",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE2.ovpn"
+         "name": "02.SG-DtacNoPro",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/2.SG_DtacNoPro.ovpn"
       },
 
 {
-         "name": "03.SG-Dtac90days",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE3.ovpn"
+         "name": "03.US-DtacNoPro",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/3.US_DtacNoPro.ovpn"
       },
 
 
    {
-         "name": "04.KR-DtacHappyWork",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE.ovpn"
+         "name": "04.TH-Dtac90days",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/1.TH_DtacNoPro.ovpn"
       },
 {
-         "name": "05.KR-DtacHappyWork",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE2.ovpn"
+         "name": "05.SG-Dtac90days",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/2.SG_DtacNoPro.ovpn"
       },
 
 {
-         "name": "06.IN-DtacHappyWork",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE3.ovpn"
+         "name": "06.US-Dtac90days",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/3.US_DtacNoPro.ovpn"
       },
  
       
 {
-         "name": "07.IN-DtacLINE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE3.ovpn"
+         "name": "07.TH-DtacLINE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/1.TH_DtacNoPro.ovpn"
       },
 
 
 
 {
-         "name": "08.TH-DtacSocial",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE.ovpn"
+         "name": "08.SG-DtacLINE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/2.SG_DtacNoPro.ovpn"
       },
 
 {
-         "name": "09.TH-DtacSocial",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE2.ovpn"
+         "name": "09.US-DtacLINE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/3.US_DtacNoPro.ovpn"
       },
 
 {
-         "name": "10.HK-DtacSocial",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE3.ovpn"
+         "name": "10.TH-TrueNoPro",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/1.TH_DtacNoPro.ovpn"
       },
 
 
 
      {
-         "name": "11.ID-TrueNoPro",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE.ovpn"
+         "name": "11.SG-TrueNoPro",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/2.SG_DtacNoPro.ovpn"
       },
 
 {
-         "name": "12.JP-TrueNoPro",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE2.ovpn"
-      },
-
-{
-         "name": "13.NL-TrueNoPro",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE3.ovpn"
-      },
-
-
-{
-         "name": "14.US-DtacNoPro",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE3.ovpn"
+         "name": "12.US-TrueNoPro",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/3.US_DtacNoPro.ovpn"
       }
 
-      
-
    ],
-"message":"What's new \nAdded 3-free server",
+"message":"What's new \nAdded new server",
    "title":"Do you want to update ?" ,
-   "version": 2
+   "version": 3
 }
