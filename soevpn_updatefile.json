@@ -87,13 +87,13 @@
 }, 
 {
          "name": "19.US-TrueNoPro",
-         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/US_Dtac90days.ovpn"
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/US_TrueNoPro.ovpn"
 }
 
 
       
    ],
-"message":"What's new \nAdded new server",
+"message":"What's new \nFixed US-TrueNoPro server",
    "title":"Do you want to update ?" ,
-   "version": 4
+   "version": 5
 }
