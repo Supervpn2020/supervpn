@@ -1,14 +1,13 @@
 {
    "files": [ 
-
-{
-"name": "TH_SIM_ALLPro_FREE",
-"url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac%26True_NoPro_FREE.ovpn"
-},
-
 {
          "name": "DtacNoPro_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE3.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE.ovpn"
+      },
+
+{
+         "name": "DtacNoPro_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE2.ovpn"
       },
 
 {
@@ -23,17 +22,6 @@
 
 
 {
-         "name": "DtacNoPro_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP3.ovpn"
-      },
-
-
-{
-         "name": "DtacNoPro_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP4.ovpn"
-      },
-  
-{
          "name": "Dtac90days_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
       },
@@ -43,10 +31,6 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE2.ovpn"
       },
 
-{
-         "name": "Dtac90days_FREE3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE3.ovpn"
-      },
 
 {
          "name": "Dtac90days_VIP1",
@@ -56,15 +40,7 @@
          "name": "Dtac90days_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP2.ovpn"
       },
-{
-         "name": "Dtac90days_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP3.ovpn"
-      },
 
-{
-         "name": "Dtac90days_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP4.ovpn"
-      },
 
    {
          "name": "DtacHappyWork_FREE",
@@ -75,11 +51,6 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE2.ovpn"
       },
 
-{
-         "name": "DtacHappyWork_FREE3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_FREE3.ovpn"
-      },
- 
       {
          "name": "DtacHappyWork_VIP1",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP1.ovpn"
@@ -89,24 +60,16 @@
          "name": "DtacHappyWork_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP2.ovpn"
       },
-{
-         "name": "DtacHappyWork_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP3.ovpn"
-      },
+
 
 {
-         "name": "DtacHappyWork_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacHappyWork_VIP4.ovpn"
+         "name": "DtacLINE_FREE",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE.ovpn"
       },
 
 {
          "name": "DtacLINE_FREE2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE2.ovpn"
-      },
-
-{
-         "name": "DtacLINE_FREE3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE3.ovpn"
       },
 
 {
@@ -119,51 +82,6 @@
          "name": "DtacLINE_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP2.ovpn"
       },
-{
-         "name": "DtacLINE_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP3.ovpn"
-      },
-{
-         "name": "DtacLINE_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP4.ovpn"
-      },
-
-
-{
-         "name": "DtacSocial_FREE",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE.ovpn"
-      },
-
-{
-         "name": "DtacSocial_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE2.ovpn"
-      },
-
-{
-         "name": "DtacSocial_FREE3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_FREE3.ovpn"
-      },
-
-{
-         "name": "DtacSocial_VIP1",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP1.ovpn"
-      },
-
-
-{
-         "name": "DtacSocial_VIP2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP2.ovpn"
-      },
-
-{
-         "name": "DtacSocial_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP3.ovpn"
-      },
-
-{
-         "name": "DtacSocial_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacSocial_VIP4.ovpn"
-      },
 
      {
          "name": "TrueNoPro_FREE",
@@ -175,10 +93,6 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE2.ovpn"
       },
 
-{
-         "name": "TrueNoPro_FREE3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE3.ovpn"
-      },
 
       {
          "name": "TrueNoPro_VIP1",
@@ -190,19 +104,9 @@
 {
          "name": "TrueNoPro_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP2.ovpn"
-      },
-{
-         "name": "TrueNoPro_VIP3",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP3.ovpn"
-      },
-
-{
-         "name": "TrueNoPro_VIP4",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP4.ovpn"
       }
-
    ],
-"message":"update: 2/02/2022 \nConfig version: 22\nUpdate by: sansoe \nWhat's new \nAdded TH (1)server",
+"message":"update: 27/02/2022 \nConfig version: 23\nUpdate by: sansoe \nWhat's new \nAdded SG FREE(2)server",
    "title":"New update available now" ,
-   "version": 22
+   "version": 23
 }
