@@ -1,5 +1,30 @@
 {
    "files": [ 
+
+{
+         "name": "TH_DtacNoPro_FREE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_DtacNoPro.ovpn"
+      },
+
+{
+         "name": "TH_Dtac90days_FREE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_Dtac90days.ovpn"
+      },
+
+{
+         "name": "TH_DtacLINE_FREE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_DtacLINE.ovpn"
+      },
+{
+         "name": "TH_DtacHappyWork_FREE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_DtacHappyWork.ovpn"
+      },
+
+{
+         "name": "TH_TrueNoPro_FREE",
+         "url": "https://raw.githubusercontent.com/Supervpn2020/supervpn/main/TH_TrueNoPro.ovpn"
+      },
+
 {
          "name": "DtacNoPro_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE.ovpn"
@@ -106,7 +131,7 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP2.ovpn"
       }
    ],
-"message":"update: 27/02/2022 \nConfig version: 23\nUpdate by: sansoe \nWhat's new \nAdded SG FREE(2)server",
+"message":"update: 28/02/2022 \nConfig version: 24\nUpdate by: sansoe \nWhat's new \nAdded TH FREE(1)server",
    "title":"New update available now" ,
-   "version": 23
+   "version": 24
 }
