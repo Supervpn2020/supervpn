@@ -1,6 +1,76 @@
 {
    "files": [ 
 
+{
+         "name": "DtacNoPro_FREE",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP1.ovpn"
+      },
+
+{
+         "name": "DtacNoPro_VIP2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_VIP2.ovpn"
+      },
+
+
+{
+         "name": "Dtac90days_FREE",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
+      },
+
+
+
+
+{
+         "name": "Dtac90days_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP1.ovpn"
+      },
+{
+         "name": "Dtac90days_VIP2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_VIP2.ovpn"
+      },
+
+
+{
+         "name": "DtacLINE_FREE",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE.ovpn"
+      },
+
+
+{
+         "name": "DtacLINE_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP1.ovpn"
+      },
+
+
+{
+         "name": "DtacLINE_VIP2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP2.ovpn"
+      },
+
+     {
+         "name": "TrueNoPro_FREE",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE.ovpn"
+      },
+
+
+
+      {
+         "name": "TrueNoPro_VIP1",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP1.ovpn"
+      },
+
+
+
+{
+         "name": "TrueNoPro_VIP2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP2.ovpn"
+      }
 
    ],
 "message":"update: 30/03/2022 \nConfig version: 26\nUpdate by: sansoe \nWhat's new \nAdded VIP(2)server",
