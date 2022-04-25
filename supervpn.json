@@ -1,9 +1,33 @@
 {
    "files": [ 
+{
+         "name": "TH_DtacNoPro_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_DtacNoPro_VIP.ovpn"
+      },
+
+{
+         "name": "TH_Dtac90days_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_Dtac90days_VIP.ovpn"
+      },
+
+{
+         "name": "TH_DtacLINE_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_DtacLINE_VIP.ovpn"
+      },
+
+{
+         "name": "TH_TrueNoPro_VIP",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_TrueNoPro_VIP.ovpn"
+      },
 
 {
          "name": "DtacNoPro_FREE",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE.ovpn"
+      },
+
+{
+         "name": "DtacNoPro_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE2.ovpn"
       },
 
 
@@ -23,7 +47,10 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE.ovpn"
       },
 
-
+{
+         "name": "Dtac90days_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE2.ovpn"
+      },
 
 
 {
@@ -41,7 +68,10 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE.ovpn"
       },
 
-
+{
+         "name": "DtacLINE_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE2.ovpn"
+      },
 {
          "name": "DtacLINE_VIP1",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_VIP1.ovpn"
@@ -58,6 +88,10 @@
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE.ovpn"
       },
 
+  {
+         "name": "TrueNoPro_FREE2",
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_FREE2.ovpn"
+      },
 
 
       {
@@ -73,7 +107,7 @@
       }
 
    ],
-"message":"update: 30/03/2022 \nConfig version: 26\nUpdate by: sansoe \nWhat's new \nAdded VIP(2)server",
+"message":"update: 25/04/2022 \nConfig version: 27\nUpdate by: sansoe \nWhat's new \nAdded TH VIP server & FREE2 ",
    "title":"New update available now" ,
-   "version": 26
+   "version": 27
 }
