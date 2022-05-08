@@ -1,5 +1,6 @@
 {
    "files": [ 
+
 {
          "name": "TH_DtacNoPro_VIP",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TH_DtacNoPro_VIP.ovpn"
@@ -49,7 +50,7 @@
 
 {
          "name": "Dtac90days_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE2.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/Dtac90days_FREE2.ovpn"
       },
 
 
@@ -70,7 +71,7 @@
 
 {
          "name": "DtacLINE_FREE2",
-         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacNoPro_FREE2.ovpn"
+         "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/DtacLINE_FREE2.ovpn"
       },
 {
          "name": "DtacLINE_VIP1",
@@ -105,9 +106,8 @@
          "name": "TrueNoPro_VIP2",
          "url": "https://raw.githubusercontent.com/san2018soe/san2018soe/main/TrueNoPro_VIP2.ovpn"
       }
-
    ],
-"message":"update: 30/04/2022 \nConfig version: 28\nUpdate by: sansoe \nWhat's new \nFixed VIP1&VIP2 ",
+"message":"update: 08/05/2022 \nConfig version: 29\nUpdate by: sansoe \nWhat's new \nAdded FREE2 ",
    "title":"New update available now" ,
-   "version": 28
+   "version": 29
 }
