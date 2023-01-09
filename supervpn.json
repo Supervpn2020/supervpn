@@ -11,16 +11,6 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-TrueNoPro-VIP.ovpn"
       },
 
-{
-         "name": "TH-Dtac90days-VIP",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-Dtac90days-VIP.ovpn"
-      },
-{
-         "name": "TH-DtacLINE12-VIP",
-         "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/TH-DtacLINE12-VIP.ovpn"
-      },
-
-
 
 {
          "name": "TH-DtacNoPro-VIP2",
@@ -101,7 +91,7 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/SG-TrueNoPro-VIP3.ovpn"
       }
    ],
-"message":"update: 01/12/2022 \nConfig version: 41\nUpdate by: sansoe \nWhat's new \nAdded VIP1/2/3 ",
+"message":"update: 09/01/2022 \nConfig version: 42\nUpdate by: sansoe \nWhat's new \nAdded VIP1/2/3 ",
    "title":"New update available now" ,
-   "version": 41
+   "version": 42
 }
